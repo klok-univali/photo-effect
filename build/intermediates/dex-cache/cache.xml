@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/srfr33dy/.android/build-cache/a9f3d38429f39a3bc805bfc6bb316453f7c1a00f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c106dd1746bc9242a3382d30064dd4fa4ba4758/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/srfr33dy/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_451af9b38c4f47924e1ebdf1a5dd0a981e884463/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/srfr33dy/.android/build-cache/2980e96d53afe3dbea6fce9a515c1c46847a4745/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ed1179ca1d6adcd6aeecf39eae6e61deaaa70bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6d38ca9538d00b23595169c792732a6975abd083/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/srfr33dy/.android/build-cache/628cbe5aaa55d00408ad21a889d0d012a1168931/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9a4fa4d19ac2ac022035561be34edc067dd787c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/srfr33dy/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_2a735502f5d0c373e59dcd5880930e2678306bba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/srfr33dy/.android/build-cache/feb887a34b2d76e91d4ba5d5de4981b8cf988676/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19cb1b8dfb99a564011ec1e453b97dda670b8eab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/srfr33dy/.android/build-cache/6d330b54d51a444ba1ed88e0990498117cafaebd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_773e3ec6b437da721f55d296ef06d0bd0bb831c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/srfr33dy/.android/build-cache/4aa9b806e4cf95c52cd1a25f6e61d88f3cc62766/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e9c75144e70f67a5358ff73056a439bfe67b7d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/srfr33dy/.android/build-cache/d1fa0d28359c694e8120a49d8182a6c044ab9f03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ccf0fe0861bd73d00189db44d8449ae2ccda36f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/srfr33dy/.android/build-cache/5c683112ba2f295b5f8c51e7f63f8878b1d10a85/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8f718bc0427128e5b3f17ba9f8e88bb9b9a7b56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e1b42579c5657ab88a512d728923d860c670c250">
+        <dex dex="/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e2b9f8ae9d987963fcb48af1587187fe96887319/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/srfr33dy/.android/build-cache/1ac0250449a35bac884e6645667ee5767d918657/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad9494e105e72e36e42805d6c6256017a85ff7b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/srfr33dy/.android/build-cache/cd8d8b5c97c229f93f99e42790df9fe6f8ddf016/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b3417ac667f9752925a42a32b716f8cb3d6192b/classes.dex" />
+    </item>
+
+</items>

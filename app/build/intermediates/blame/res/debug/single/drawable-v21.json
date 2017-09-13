@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/srfr33dy/.android/build-cache/d1fa0d28359c694e8120a49d8182a6c044ab9f03/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/srfr33dy/.android/build-cache/d1fa0d28359c694e8120a49d8182a6c044ab9f03/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/srfr33dy/.android/build-cache/d1fa0d28359c694e8120a49d8182a6c044ab9f03/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/srfr33dy/.android/build-cache/d1fa0d28359c694e8120a49d8182a6c044ab9f03/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

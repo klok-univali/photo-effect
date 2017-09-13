@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollFilter"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/filter01"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp" />
+
+        <ImageButton
+            android:id="@+id/filter02"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp" />
+
+        <ImageButton
+            android:id="@+id/filter03"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp" />
+
+        <ImageButton
+            android:id="@+id/filter04"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp" />
+
+        <ImageButton
+            android:id="@+id/filter05"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp" />
+
+        <ImageButton
+            android:id="@+id/filter06"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp" />
+
+        <ImageButton
+            android:id="@+id/filter07"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp" />
+
+    </LinearLayout>
+</HorizontalScrollView>

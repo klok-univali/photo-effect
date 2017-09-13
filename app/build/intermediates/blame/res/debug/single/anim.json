@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/srfr33dy/.android/build-cache/d1fa0d28359c694e8120a49d8182a6c044ab9f03/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/srfr33dy/.android/build-cache/d1fa0d28359c694e8120a49d8182a6c044ab9f03/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/srfr33dy/.android/build-cache/d1fa0d28359c694e8120a49d8182a6c044ab9f03/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/srfr33dy/.android/build-cache/d1fa0d28359c694e8120a49d8182a6c044ab9f03/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/srfr33dy/.android/build-cache/d1fa0d28359c694e8120a49d8182a6c044ab9f03/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/srfr33dy/.android/build-cache/d1fa0d28359c694e8120a49d8182a6c044ab9f03/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/srfr33dy/.android/build-cache/d1fa0d28359c694e8120a49d8182a6c044ab9f03/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/srfr33dy/.android/build-cache/d1fa0d28359c694e8120a49d8182a6c044ab9f03/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/srfr33dy/.android/build-cache/d1fa0d28359c694e8120a49d8182a6c044ab9f03/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/run/media/srfr33dy/dados/projetos/PhotoEffect/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/srfr33dy/.android/build-cache/d1fa0d28359c694e8120a49d8182a6c044ab9f03/output/res/anim/abc_slide_in_bottom.xml"
+    }
+]
